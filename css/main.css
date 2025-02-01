@@ -6,4 +6,14 @@ body{
 
 .name{
     background-color: #D33D96;
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+}
+
+.top{
+    font-family: Impact, sans-serif;
+    font-size: 122px;
+    text-align: right;
+    color: rgb(255, 255, 255);
 }
