@@ -26,7 +26,6 @@ h2{
     font-size: 111px;
     font-weight: 100;
     text-align: center;
-    padding-left: 100px;
 }
 
 p{
@@ -45,5 +44,9 @@ p{
 }
 
 .art{
-    border: 3px black;
+    text-align: center;
+}
+
+ul img {
+    border: 5px solid rgb(0, 0, 0);
 }
