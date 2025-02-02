@@ -13,8 +13,24 @@ body{
 
 .top{
     font-family: Impact, sans-serif;
-    font-size: 122px;
+    font-size: 133px;
     text-align: right;
     color: rgb(255, 255, 255);
+    padding-right: 100px;
+    padding-top: 100px;
+    
+}
+
+h2{
+    font-family: Impact, sans-serif;
+    font-size: 55px;
+    font-weight: 100;
+    text-align: center;
+    padding-left: 100px;
+}
+
+p{
+    font-family: Verdana, sans-serif;
+    padding-left: 150px;
     padding-right: 100px;
 }
