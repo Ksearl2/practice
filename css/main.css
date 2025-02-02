@@ -43,3 +43,7 @@ p{
     color: rgb(0, 0, 0);
     padding-top: 22px;
 }
+
+.art{
+    border: 3px black;
+}
