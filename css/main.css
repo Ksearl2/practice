@@ -1,6 +1,6 @@
 /* Place CSS styles here */
 body{
-    background-color: #ffffff;
+    background-color: #2f2f2f;
     font-family: Helvetica, sans-serif
 }
 
@@ -21,15 +21,17 @@ body{
     
 }
 
-h2{
+h2, h3{
     font-family: Impact, sans-serif;
     font-size: 111px;
     font-weight: 100;
+    color: rgb(255, 255, 255);
     text-align: center;
 }
 
 p{
     font-family: Verdana, sans-serif;
+    color: rgb(255, 255, 255);
     font-size: 33px;
     padding-left: 150px;
     padding-right: 100px;
@@ -39,7 +41,7 @@ p{
     font-family: Impact, sans-serif;
     font-size: 111px;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     padding-top: 22px;
 }
 
