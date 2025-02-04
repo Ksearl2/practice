@@ -1,7 +1,7 @@
 /* Place CSS styles here */
 body{
     background-color: #ffffff;
-    font-family: Helvetica, sans-serif;
+    font-family: "Bebas Neue", sans-serif;
 }
 
 .name{
@@ -53,7 +53,7 @@ ul img {
 
 footer {
     background-color: #D33D96;
-    color: white;
+    color: rgb(255, 255, 255);
     padding: 20px;
     text-align: center;
 }
