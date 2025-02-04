@@ -13,7 +13,7 @@ body{
 
 .top{
     font-family: "Bebas Neue", sans-serif;
-    font-size: 133px;
+    font-size: 130px;
     text-align: right;
     color: rgb(255, 255, 255);
     padding-right: 100px;
@@ -23,7 +23,7 @@ body{
 
 h2, h3{
     font-family: Impact, sans-serif;
-    font-size: 111px;
+    font-size: 110px;
     font-weight: 100;
     color: rgb(255, 255, 255);
     text-align: center;
@@ -32,7 +32,7 @@ h2, h3{
 p{
     font-family: Verdana, sans-serif;
     color: rgb(255, 255, 255);
-    font-size: 33px;
+    font-size: 36px;
     padding-left: 75px;
     padding-right: 100px;
     text-indent: 50px;
@@ -41,7 +41,7 @@ p{
 
 .work{
     font-family: Impact, sans-serif;
-    font-size: 111px;
+    font-size: 110px;
     text-align: center;
     color: rgb(255, 255, 255);
     padding-top: 22px;
