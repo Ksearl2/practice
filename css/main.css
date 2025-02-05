@@ -68,4 +68,6 @@ footer {
     list-style-position: inside;
 }
 
-
+.cover:hover{
+    border: 5px solid #D33D96;
+}
