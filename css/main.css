@@ -63,6 +63,7 @@ footer {
     text-align: center;
 }
 
+
 .songs{
     text-align: center;
     list-style-position: inside;
@@ -75,4 +76,8 @@ footer {
     transition: 0.5s;
     z-index: 102;
     
+}
+
+html{
+    scroll-behavior: smooth;
 }
