@@ -4,7 +4,7 @@ body{
     font-family: Helvetica, sans-serif
 }
 
-.name{
+header{
     background-color: #D33D96;
     background-size: cover;
     background-position: center;
@@ -58,7 +58,7 @@ ul img {
 
 footer {
     background-color: #D33D96;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     padding: 20px;
     text-align: center;
 }
@@ -74,7 +74,6 @@ footer {
     border: 5px solid #D33D96;
     transform: scale(1.1);
     transition: 0.5s;
-    z-index: 1;
     
 }
 
@@ -116,6 +115,6 @@ footer {
 
 
 @keyframes fade-in{
-    from {scale: .8;}
-    to {scale: 1;}
+    from {scale: 50%;}
+    to {scale: 100%;}
 }
