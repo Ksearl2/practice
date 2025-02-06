@@ -74,7 +74,7 @@ footer {
     border: 5px solid #D33D96;
     transform: scale(1.1);
     transition: 0.5s;
-    z-index: 102;
+    z-index: 1;
     
 }
 
