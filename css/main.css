@@ -13,13 +13,15 @@ header{
 
 .top{
     font-family: "Bebas Neue", sans-serif;
-    font-size: 130px;
-    text-align: right;
+    font-size: 200px;
+    text-align: center;
     color: rgb(255, 255, 255);
-    padding-right: 100px;
     padding-top: 100px;
+    letter-spacing: 10px;
     
 }
+
+
 
 h2, h3, h4{
     font-family: "Bebas Neue", sans-serif;
@@ -50,6 +52,8 @@ p{
 .art{
     text-align: center;
     list-style-position: inside;
+    list-style: none;
+    padding-left: 0;
 }
 
 ul img {
@@ -68,6 +72,7 @@ footer {
     text-align: center;
     list-style-position: inside;
     padding-bottom: 20px;
+    list-style: none;
 }
 
 .cover:hover{
