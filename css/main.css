@@ -75,6 +75,10 @@ footer {
     list-style: none;
 }
 
+.cover{
+    transition: 0.5s;
+}
+
 .cover:hover{
     border: 5px solid #D33D96;
     transform: scale(1.1);
